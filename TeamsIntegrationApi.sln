@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamsIntegrationApi", "TeamsIntegrationApi\TeamsIntegrationApi.csproj", "{13467294-7CE5-40E2-A256-ED61DF067839}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoTriggerAzure", "MongoTriggerAzure\MongoTriggerAzure.csproj", "{6BD2DCDB-55C0-4CFC-8F64-C22DA6112895}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientTeams.Domain", "Siigo.ClientTeams.Domain\ClientTeams.Domain.csproj", "{E2E5D9AB-6BB9-4212-9B5E-D4FC89639DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13467294-7CE5-40E2-A256-ED61DF067839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13467294-7CE5-40E2-A256-ED61DF067839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13467294-7CE5-40E2-A256-ED61DF067839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13467294-7CE5-40E2-A256-ED61DF067839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD2DCDB-55C0-4CFC-8F64-C22DA6112895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD2DCDB-55C0-4CFC-8F64-C22DA6112895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD2DCDB-55C0-4CFC-8F64-C22DA6112895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD2DCDB-55C0-4CFC-8F64-C22DA6112895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E5D9AB-6BB9-4212-9B5E-D4FC89639DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E5D9AB-6BB9-4212-9B5E-D4FC89639DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E5D9AB-6BB9-4212-9B5E-D4FC89639DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E5D9AB-6BB9-4212-9B5E-D4FC89639DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71889FB5-339C-461D-AD85-1939DF3699F8}
+	EndGlobalSection
+EndGlobal
